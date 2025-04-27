@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kim-suk&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=수경♥️&fontSize=90)
 
 
 ## Hi there 👋
@@ -34,8 +34,8 @@ I aim to become a full-stack developer who makes long code simple and efficient.
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 ## 💻Dev's log
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)(https://www.notion.so/1b861a8c449d80bba74fceddfd5046e7?v=1c561a8c449d8083bc30000c49c0a7e3)
-![velog](https://img.shields.io/badge/velog-%23000000.svg?style=for-the-badge&logo=velog&logoColor=pink)(https://velog.io/@sukyung01/posts)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1b861a8c449d80bba74fceddfd5046e7?v=1c561a8c449d8083bc30000c49c0a7e3)
+[![velog](https://img.shields.io/badge/velog-%23000000.svg?style=for-the-badge&logo=velog&logoColor=pink)](https://velog.io/@sukyung01/posts)
 
 <!--
 **Kim-suk/Kim-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
