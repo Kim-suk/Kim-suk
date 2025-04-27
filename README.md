@@ -1,8 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+
 ## Hi there 👋
 
 Hello, welcome to my GitHub!
 
 I aim to become a full-stack developer who makes long code simple and efficient.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-suk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📋 Languages
