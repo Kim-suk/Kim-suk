@@ -4,6 +4,7 @@ Hello, welcome to my GitHub!
 
 I aim to become a full-stack developer who makes long code simple and efficient.
 
+
 ## 🌠Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,6 +13,7 @@ I aim to become a full-stack developer who makes long code simple and efficient.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
 <!--
 **Kim-suk/Kim-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
