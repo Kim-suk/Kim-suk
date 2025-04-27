@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hello, welcome to my GitHub!
+
+I aim to become a full-stack developer who makes long code simple and efficient.
+
 <!--
 **Kim-suk/Kim-suk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
