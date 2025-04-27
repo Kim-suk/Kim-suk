@@ -8,6 +8,8 @@ I aim to become a full-stack developer who makes long code simple and efficient.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-suk)](https://github.com/anuraghazra/github-readme-stats)
 
+## Contact 📞
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ## 📋 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
