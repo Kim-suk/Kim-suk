@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=♥️수경♥️&fontSize=90)
+
+![me](https://github.com/user-attachments/assets/7d52b151-029d-43f6-b0d8-0fd67208cc13)
 
 ## Hi there 👋
 
