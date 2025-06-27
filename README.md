@@ -42,7 +42,7 @@ I aim to become a full-stack developer who makes long code simple and efficient.
 
 ## 💻Dev's log
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/1b861a8c449d80bba74fceddfd5046e7?v=1c561a8c449d8083bc30000c49c0a7e3)
-[![Velog's GitHub stats][(https://velog-readme-stats.vercel.app/api/badge?name=sukyung01](https://velog-readme-stats.vercel.app/api/redirect?name=sukyung01&tag=github))](https://velog.io/@sukyung01)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=sukyung01)](https://velog.io/@sukyung01)
 
 
 <!--
